@@ -1,0 +1,71 @@
+.ul-container{
+	padding: 20px 0;
+}
+.ul-form-search{
+	margin-bottom: 20px;
+}
+.ul-btn-search{
+	margin-left: 10px;
+	line-height: 45px;
+}
+
+.ul-list-price td{
+	border: none !important;
+}
+.ul-success{
+	color: green;	
+}
+.ul-error{
+	color: red;
+}
+.ul-left-btn{
+	float: left;
+}
+.clearx{
+	clear: both;
+}
+.ul-list-table{
+	width:100%; 
+	border-collapse:collapse; 
+}	
+.ul-list-table th{
+	font-weight: bold;
+}
+.ul-list-table th, .ul-list-table td{ 
+	padding:7px; 
+	border:#f2f2f2 1px solid;
+	font-size: 18px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+/* provide some minimal visual accomodation for IE8 and below */
+.ul-list-table tr{
+	background: #fff;
+}
+/*  Define the background color for all the ODD background rows  */
+.ul-list-table tr:nth-child(odd){ 
+	background: #fff;
+}
+/*  Define the background color for all the EVEN background rows  */
+.ul-list-table tr:nth-child(even){
+	background: #f2f2f2;
+}
+
+.ul-place-order{
+	display: none;
+	width: 50%;
+}
+.ul-place-order h5{
+	    margin: 40px 0 20px 0;
+}
+.ul-select-row{
+	background-color: #ddd !important;
+}
+.code{
+	background-color: #f2f2f2;
+	padding: 5px 10px;
+}
+.ul-place-order input[type=image]{
+	margin-left: 10px;
+}

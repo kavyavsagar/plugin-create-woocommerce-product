@@ -1,0 +1,19 @@
+.ula-info{
+	font-size: 14px;
+}
+.ula-req-btn{
+	width: auto;
+	padding: 8px 12px;
+	color: #fff;
+	background-color: #4eb5f1;
+	cursor: pointer;
+	font-weight: 600;
+}
+.ula-success{
+	color: green;
+	font-weight: 500;
+}
+.ula-error{
+	color: red;
+	font-weight: 500;
+}
